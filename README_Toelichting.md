@@ -1,0 +1,4 @@
+Typografie: Er wordt gewerkt met een duidelijke hiërarchie via text-3xl font-bold voor de titel, text-lg font-medium voor de lead en text-base voor de bodytekst. De lead krijgt extra gewicht om de lezer snel de kern van het artikel te laten begrijpen. Tussenkoppen in text-xl font-semibold verdelen de tekst in overzichtelijke blokken.
+Kleur: Elke rubriek heeft een eigen accentkleur, blauw voor De Helpdesk, groen voor De Technocraat. Deze kleur wordt consequent doorgetrokken in het rubriek-label, de lead-border, de blockquote en de tags. Dit creëert visuele samenhang.
+Beeldgebruik: Volgt grid, voor de rest niet van toepassing.
+Compositie: De blik wordt gestuurd van rubriek-label → titel → lead → meta-info → bodytekst. Dit volgt een natuurlijke F-patroon leesbeweging. Blockquotes en stappenlijsten doorbreken de tekststroom visueel en benadrukken belangrijke inhoud.
